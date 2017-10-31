@@ -28,11 +28,25 @@
 
 ## INstallation & Usage 
 
-See the [Documentation][1] fro and introduction, usage information, and extensive example.
+See the [Documentation][1] for an introduction, usage information, and extensive example.
 
 ## About SOS
 Click [Shengnian Open Source(SOS)][2] open the offical website.
 
+## Releasing
+
+On the latest clean `master`:
+
+```sh
+yarn release:major
+yarn release:minor
+yarn release:patch
+```
+
+Releasing will update the changelog which requires [github_changelog_generator][3].
+
+
 [1]: https://shengnian.github.io
 [2]: https://shengnian.org 
+[3]: https://github.com/skywinder/github-changelog-generator
 
