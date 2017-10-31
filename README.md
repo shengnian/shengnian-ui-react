@@ -49,4 +49,3 @@ Releasing will update the changelog which requires [github_changelog_generator][
 [1]: https://shengnian.github.io
 [2]: https://shengnian.org 
 [3]: https://github.com/skywinder/github-changelog-generator
-
