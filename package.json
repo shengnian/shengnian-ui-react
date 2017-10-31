@@ -1,6 +1,6 @@
 {
   "name": "shengnian-ui-react",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Shengnian Open Source(SOS, 盛年开源) react components",
   "jsnext:main": "dist/es/index.js",
   "main": "dist/commonjs/index.js",
