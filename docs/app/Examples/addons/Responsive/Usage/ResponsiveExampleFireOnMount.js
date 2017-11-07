@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Grid, Responsive, Segment } from 'semantic-ui-react'
+import { Grid, Responsive, Segment } from 'shengnian-ui-react'
 
 export default class ResponsiveExampleFireOnMount extends Component {
   state = {}
